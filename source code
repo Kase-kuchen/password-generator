@@ -2,7 +2,7 @@
 #include <cstring>
 #include <string.h>
 #include <windows.h>
-#include<conio.h>
+#include <conio.h>
 using namespace std;
 //above are the libraries and namespace used
 
