@@ -355,7 +355,7 @@ int main()
     int length;  //length of the password
     while(ProgramRunning==true) //password reading/generating part
     {
-     cout<<"Password generator booted up! Do you want to generator a password[1], or to exit[2]?"<<endl;
+     cout<<"Password generator booted up! Do you want to generate a password[1], or to exit[2]?"<<endl;
      int choice;
      cin>>choice; //this makes it so the user can exit or continue with the password generation
      switch(choice)
